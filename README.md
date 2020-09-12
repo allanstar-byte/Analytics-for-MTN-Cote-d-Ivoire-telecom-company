@@ -8,8 +8,11 @@ Project setup instructions:
   To start using this project use the following commands:
 
   git clone https://github.com/allanstar-byte/IP_WEEK_3.git
+#
   cd moringa-school-projects
+  
   atom .
+  
   License info
 MIT License
 #
