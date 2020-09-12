@@ -1,6 +1,7 @@
 # IP_WEEK_3
 working as Data Scientist for MTN Cote d'Ivoire, a leading telecom company
-#Author
+#
+Author
 Allan Mutisya
 Project setup instructions
 To start using this project use the following commands:
