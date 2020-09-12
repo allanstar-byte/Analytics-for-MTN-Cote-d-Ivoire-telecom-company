@@ -1,18 +1,19 @@
-# IP_WEEK_3
+# IP_WEEK_3 (python)
 working as Data Scientist for MTN Cote d'Ivoire, a leading telecom company
 #
 Author
 Allan Mutisya
+#
 Project setup instructions
 To start using this project use the following commands:
-
-git clone https://github.com/moringaschool/hello-world.git
-cd hello-world
+#
+git clone https://github.com/allanstar-byte/IP_WEEK_3.git
+cd moringa-school-projects
 atom .
 License info
 MIT License
-
-Copyright (c) 2018 Moringa School
+#
+Copyright (c) 2020 allan mutisya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
