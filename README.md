@@ -1,16 +1,16 @@
 # IP_WEEK_3 (python)
 working as Data Scientist for MTN Cote d'Ivoire, a leading telecom company
 #
-Author
-Allan Mutisya
+Author: 
+  Allan Mutisya
 #
-Project setup instructions
-To start using this project use the following commands:
-#
-git clone https://github.com/allanstar-byte/IP_WEEK_3.git
-cd moringa-school-projects
-atom .
-License info
+Project setup instructions:
+  To start using this project use the following commands:
+
+  git clone https://github.com/allanstar-byte/IP_WEEK_3.git
+  cd moringa-school-projects
+  atom .
+  License info
 MIT License
 #
 Copyright (c) 2020 allan mutisya
