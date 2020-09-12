@@ -10,7 +10,12 @@ Project setup instructions:
   git clone https://github.com/allanstar-byte/IP_WEEK_3.git
 #
   cd moringa-school-projects
-  
+ git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/allanstar-byte/IP_WEEK_3.git
+git push -u origin master
   atom .
   
   License info
